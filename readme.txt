@@ -1,1 +1,1 @@
-edit last
+git chotto wakaru
