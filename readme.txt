@@ -1,1 +1,1 @@
-git chotto wakaru
+git perfect understand
